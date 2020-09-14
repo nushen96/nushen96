@@ -14,4 +14,4 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media1.tenor.com/images/d4dadeff83b76d4c7f5ecfea13454272/tenor.gif?itemid=13894893/>
+<img src="https://media1.tenor.com/images/d4dadeff83b76d4c7f5ecfea13454272/tenor.gif?itemid=13894893"/>
