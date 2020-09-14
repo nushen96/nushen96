@@ -3,7 +3,6 @@
 <!--
 **nushen96/nushen96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://media1.tenor.com/images/d4dadeff83b76d4c7f5ecfea13454272/tenor.gif?itemid=13894893/>
