@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media.tenor.com/images/dc6842d8abfb4955aa0481a564ac0110/tenor.gif" style="width:300px; height: auto"/>
+<img src="https://i.pinimg.com/originals/13/e6/a2/13e6a291f7e0f98bd9482ef99dc6da9a.gif" style="width:300px; height: auto"/>
 <div>
   I am <b>Papi Diagne</b>
   <i>I am a code ninja (Actually, a Software Engineer 😁)</i>
@@ -24,5 +24,5 @@
   <li><b>🤹🏿 General Skills:</b>Analysis, Web and Mobile development, Project Management</li>
   <li><b>🧠 Soft Skills:</b>Problem Solving, Decision Making, Time Management (this is a lie 😅)</li>
 </ul>
-Follow me on <a href="https://twitter.com/papidiagne30">twitter</a>
+Follow me on <a href="https://twitter.com/papidiagne30" target="_blank">twitter</a>
  
