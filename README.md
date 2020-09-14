@@ -24,5 +24,5 @@
   <li><b>🤹🏿 General Skills:</b>Analysis, Web and Mobile development, Project Management</li>
   <li><b>🧠 Soft Skills:</b>Problem Solving, Decision Making, Time Management (this is a lie 😅)</li>
 </ul>
-Follow me on <a href="https://twitter.com/papidiagne30" target="_blank">twitter</a>
+Follow me on <a href="https://twitter.com/papidiagne30" target="_blank">Twitter</a>
  
