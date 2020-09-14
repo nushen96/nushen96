@@ -14,7 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://media1.tenor.com/images/d4dadeff83b76d4c7f5ecfea13454272/tenor.gif?itemid=13894893" style="width:100%; height: auto"/>
+<img src="https://media.tenor.com/images/dc6842d8abfb4955aa0481a564ac0110/tenor.gif" style="width:100%; height: auto"/>
 <div>
   I am <b>Papi Diagne</b>
   <i>I am a code ninja (Actually, a Software Engineer 😁)</i>
